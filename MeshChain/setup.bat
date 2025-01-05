@@ -1,5 +1,5 @@
 @echo off
-title name Bot
+title MeshChain Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -81,7 +81,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-node linux_run.js
+node run_both_version.js
 pause
 goto MENU
 

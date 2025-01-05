@@ -90,7 +90,7 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `node bot_telegram` for **telegram** version or `node bot_extension` for **extension** version
-> If you want to run both bot, use this command `node windows_run` for **windows** environment or `node linux_run` for **linux** environment
+> To run the bot, use the following command: `cd meshchain-main/meshchain; node bot_telegram` for **telegram** version or `cd meshchain-main/meshchain; node bot_extension` for **extension** version
+> If you want to run both bot, use this command `cd meshchain-main/meshchain; node run_both_version.js`
 
 🎇Enjoy!

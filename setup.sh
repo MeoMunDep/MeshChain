@@ -112,7 +112,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            node run_both_version
+            node index_meomundep
             read -p "Press Enter to continue..."
             ;;
         4)

@@ -1,10 +1,9 @@
 {
-  "timeZone": "en-US",
-  "delayEachAccount": [5, 8],
-  "timeToRestartAllAccounts": 7200,
-  "howManyAccountsRunInOneTime": 500,
   "isDoTasks": true,
   "isPlayGames": true,
+  "skipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
   "referralCode": "6713068747",
-  "skipInvalidProxy": false
+  "timeToRestartAllAccounts": 7200,
+  "howManyAccountsRunInOneTime": 500
 }

@@ -95,16 +95,16 @@ socks5://user:password@host:port
 - For **telegram** version:
 
 ```bash
-cd meshchain; node bot_telegram
+cd meshchain; node telegram_meomundep
 ```
  
 - For **extension** version:
  ```bash
- cd meshchain; node bot_extension
+ cd meshchain; node extension_meomundep
 ``` 
 > If you want to run both bot, use this command:
 ```bash
-cd meshchain; node run_both_version.js
+cd meshchain; node index_meomundep.js
 ````
 
 🎇Enjoy!

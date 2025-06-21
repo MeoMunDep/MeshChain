@@ -78,7 +78,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-node run_both_version.js
+node index_meomundep.js
 pause
 goto MENU
 

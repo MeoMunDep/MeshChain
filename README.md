@@ -1,6 +1,6 @@
 📞 Contact
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 > If you encounter any issues or have questions, feel free to reach out:
@@ -90,7 +90,21 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd meshchain-main/meshchain; node bot_telegram` for **telegram** version or `cd meshchain-main/meshchain; node bot_extension` for **extension** version
-> If you want to run both bot, use this command `cd meshchain-main/meshchain; node run_both_version.js`
+> To run the bot, use the following command: 
+
+- For **telegram** version:
+
+```bash
+cd meshchain; node bot_telegram
+```
+ 
+- For **extension** version:
+ ```bash
+ cd meshchain; node bot_extension
+``` 
+> If you want to run both bot, use this command:
+```bash
+cd meshchain; node run_both_version.js
+````
 
 🎇Enjoy!
